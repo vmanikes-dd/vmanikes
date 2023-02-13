@@ -18,17 +18,17 @@
             <li>I am environmentally conscious engineer who wants to achieve more with using
     less resources which saves money for the organization that I work for and also ensures less carbon is omitted</li>
         </ul>
-
     <h3>My Principles</h3>
-        <ul>
+    <ul>
             <li>Do one thing and do it better</li>
             <li>Do not start a task and stop without completing</li>
             <li>Have Passion and find motivation</li>
             <li>Start small and improve</li>
             <li>Be Brutally Honest</li>
-        </ul>
+    </ul>
     
 <a href="https://app.daily.dev/raging_bulldoze"><img align="right" src="https://github.com/vmanikes/vmanikes/blob/main/devcard.svg" width="400" alt="Venkata S S K M Chaitanya's Dev Card"/></a>
+
 
 - 🌱 I’m currently learning **Rust**
 - 👨‍💻 All of my projects are available at [https://github.com/vmanikes](https://github.com/vmanikes)
